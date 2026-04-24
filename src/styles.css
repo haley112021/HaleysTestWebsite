@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.hero {
+  background-color: #111;
+  color: white;
+  padding: 50px 20px;
+  border-radius: 10px;
+}
+
+.section {
+  background: white;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
